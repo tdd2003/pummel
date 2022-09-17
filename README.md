@@ -26,8 +26,8 @@ Install
 ---
 ```
 pip3 install requests pysocks
-git clone https://github.com/HC133/Pummel.git
-cd Pummel
+git clone https://github.com/tdd2003/pummel.git
+cd pummel
 ```
 Usage
 ---
